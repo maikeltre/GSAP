@@ -1,0 +1,58 @@
+{
+    "servicios": [
+        {
+            "id": "1",
+            "nombre": "javascript",
+            "descripcion":"Curso de javascript",
+            "precio":89
+        },
+        {
+            "id": "2",
+            "nombre": "jquery",
+            "descripcion":"Curso de jquery",
+            "precio":70
+        },
+        {
+            "id": "3",
+            "nombre": "html",
+            "descripcion":"Curso de html",
+            "precio":75
+        },
+        {
+            "id": "4",
+            "nombre": "css",
+            "descripcion":"Curso de css",
+            "precio":65
+        },
+        {
+            "id": "5",
+            "nombre": "sass",
+            "descripcion":"Curso de sass",
+            "precio":85
+        },
+        {
+            "id": "6",
+            "nombre": "gulp",
+            "descripcion":"Curso de gulp",
+            "precio":80
+        },
+        {
+            "id": "7",
+            "nombre": "less",
+            "descripcion":"Curso de less",
+            "precio":85
+        },
+        {
+            "id": "8",
+            "nombre": "npm",
+            "descripcion":"Curso de npm",
+            "precio":75
+        },
+        {
+            "id": "9",
+            "nombre": "node",
+            "descripcion":"Curso de node",
+            "precio":90
+        }
+    ]
+}
